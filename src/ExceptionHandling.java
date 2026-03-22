@@ -2,18 +2,14 @@
 
 // Custom exception:
 class InsufficientFundsException extends Exception{
-    private double amountNeeded;
-    private double idkWhat;
 
     public InsufficientFundsException(double amountNeeded){
         super("Transaction failed, you are short by: $" + amountNeeded);
-        this.amountNeeded = amountNeeded;
     }
 }
 
 class ATM{
     private double balance = 500.00;
-
     public void withdraw(double amount) throws InsufficientFundsException{
         System.out.println("Attempting to withdraw: $" + amount);
 

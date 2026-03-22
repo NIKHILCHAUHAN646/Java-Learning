@@ -25,6 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="branch1" />
@@ -74,6 +75,7 @@
   "keyToString": {
     "Application.AwaitTermination.executor": "Run",
     "Application.CounterProblem.executor": "Run",
+    "Application.ExceptionHandling.executor": "Run",
     "Application.MultiStateTest.executor": "Run",
     "Application.RunnableMethod.executor": "Run",
     "Application.SleepTest.executor": "Run",
@@ -95,6 +97,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Jav/Java-Learning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,15 +107,23 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -138,6 +149,12 @@
       <workItem from="1770455855247" duration="277000" />
       <workItem from="1770547358971" duration="3869000" />
       <workItem from="1770626670665" duration="631000" />
+      <workItem from="1774009792785" duration="3475000" />
+      <workItem from="1774013461108" duration="114000" />
+      <workItem from="1774013607465" duration="18000" />
+      <workItem from="1774013649675" duration="4000" />
+      <workItem from="1774013725472" duration="12000" />
+      <workItem from="1774013823275" duration="1130000" />
     </task>
     <task id="LOCAL-00001" summary="Moved to IntelliJ">
       <option name="closed" value="true" />
@@ -266,5 +283,9 @@
     <MESSAGE value="using volatile for instantaneous memory access instead of cache" />
     <MESSAGE value="Use of threadpool executor to automatically assign tasks to created threads" />
     <option name="LAST_COMMIT_MESSAGE" value="Use of threadpool executor to automatically assign tasks to created threads" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
